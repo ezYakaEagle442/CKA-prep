@@ -1,4 +1,4 @@
-
+```sh
 source <(kubectl completion bash) # setup autocomplete in bash into the current shell, bash-completion package should be installed first.
 echo "source <(kubectl completion bash)" >> ~/.bashrc 
 alias k=kubectl
@@ -636,7 +636,7 @@ https://www.katacoda.com/javajon/courses/kubernetes-networking/connectivity
 ***********************************************************************************
 
 07/05/2021
-
+```
 
 
 
